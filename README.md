@@ -19,4 +19,4 @@ The file that contains the clean data file is called:
  The steps taken to analyze the data involved creating valid plots and even isolating desired data points in order to draw cohesive conlcusions. 
  
  The file that performs the data analysis is called:
-  
+  JulieMammen_DATA_3320_Seattle_St_Louis_Analysis.ipynb
