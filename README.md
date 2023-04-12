@@ -14,3 +14,9 @@ The file that perform the data prepartion is called:
 
 The file that contains the clean data file is called:
   clean_seattle_stl_weather.csv
+  
+ ## Data Analysis
+ The steps taken to analyze the data involved creating valid plots and even isolating desired data points in order to draw cohesive conlcusions. 
+ 
+ The file that performs the data analysis is called:
+  
