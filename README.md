@@ -4,6 +4,8 @@
 ## Description
 The purpose of this project is to comapre the weather data sets from Saint Louis, MO and Seattle, WA. Through this comparison we can understand whether it rains more in Seattle compared to Saint Louis or not, and be able to effectively communicate this comparison in weather between the two cities. 
 
+Through joining the data frames and interpolating any missing values we will be able to draw a conclusion as to which city it rains more in. From analyzing the data, there can be different answers based on what classifies the measure of where it rains more, whether it be how hard it rains or by the number of days it rains in either city.
+
 ## Requirements
 The software used in this project was Google Colab and the language used was python.
 
