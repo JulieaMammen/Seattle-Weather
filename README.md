@@ -28,4 +28,6 @@ The file that contains the clean data file is called:
  Julie Mammen
  
  ## License
- cc-by-sa-4.0
+ Creative Commons Zero v1.0 Universal
+ cc0-1.0
+
